@@ -2,7 +2,7 @@
 
 A simple, responsive News App built with React and powered by the NewsAPI. This app allows users to view the latest news articles filtered by categories like Business, Sports, Health, Technology, and Entertainment. Each article links to the original source, providing the option to read more.
 
-Features
+Features <br>
 Category-based News: Filter news articles by categories such as:
 Business
 Sports
