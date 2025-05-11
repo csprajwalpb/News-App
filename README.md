@@ -23,7 +23,7 @@ Styling: CSS & Bootstrap
 
 Build Tool: Vite
 
-<b>The installation and usage are provided in another branch (master) of this same repository.</b>
+<b>The installation, usage and source codes are provided in another branch (master) of this same repository.</b>
 
 https://github.com/user-attachments/assets/e9b1d5a0-c6e5-4a07-817c-16946116bf99
 
